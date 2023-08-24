@@ -1,0 +1,11 @@
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\bin\Debug\ProyectoInv1.exe.config
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\bin\Debug\ProyectoInv1.exe
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\bin\Debug\ProyectoInv1.pdb
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.AssemblyReference.cache
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.Form1.resources
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.Properties.Resources.resources
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.GenerateResource.cache
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.CoreCompileInputs.cache
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.exe
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.pdb
+E:\Fabio\Downloads\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.Calculadora.resources
