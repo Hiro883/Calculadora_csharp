@@ -1,4 +1,5 @@
 C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.AssemblyReference.cache
+C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.Form1.resources
 C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.Properties.Resources.resources
 C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.GenerateResource.cache
 C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.CoreCompileInputs.cache
@@ -7,4 +8,43 @@ C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\bin\Debug\ProyectoInv1.exe
 C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\bin\Debug\ProyectoInv1.pdb
 C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.exe
 C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.pdb
-C:\Users\galli\Desktop\ProyectoInv1\ProyectoInv1\obj\Debug\ProyectoInv1.CalculadoraPRN115.resources
+C:\Users\1050la\Desktop\ProyectoInv1\bin\Debug\ProyectoInv1.exe.config
+C:\Users\1050la\Desktop\ProyectoInv1\bin\Debug\ProyectoInv1.exe
+C:\Users\1050la\Desktop\ProyectoInv1\bin\Debug\ProyectoInv1.pdb
+C:\Users\1050la\Desktop\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.AssemblyReference.cache
+C:\Users\1050la\Desktop\ProyectoInv1\obj\Debug\ProyectoInv1.CalculadoraPRN115.resources
+C:\Users\1050la\Desktop\ProyectoInv1\obj\Debug\ProyectoInv1.Properties.Resources.resources
+C:\Users\1050la\Desktop\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.GenerateResource.cache
+C:\Users\1050la\Desktop\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.CoreCompileInputs.cache
+C:\Users\1050la\Desktop\ProyectoInv1\obj\Debug\ProyectoInv1.exe
+C:\Users\1050la\Desktop\ProyectoInv1\obj\Debug\ProyectoInv1.pdb
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\bin\Debug\ProyectoInv1.exe.config
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\bin\Debug\ProyectoInv1.exe
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\bin\Debug\ProyectoInv1.pdb
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.AssemblyReference.cache
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\obj\Debug\ProyectoInv1.CalculadoraPRN115.resources
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\obj\Debug\ProyectoInv1.Properties.Resources.resources
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.GenerateResource.cache
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\obj\Debug\ProyectoInv1.csproj.CoreCompileInputs.cache
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\obj\Debug\ProyectoInv1.exe
+E:\Fabio\Downloads\ProyectoInv_VF\ProyectoInv1\obj\Debug\ProyectoInv1.pdb
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\bin\Debug\ProyectoInv1.exe.config
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\bin\Debug\ProyectoInv1.exe
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\bin\Debug\ProyectoInv1.pdb
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\obj\Debug\ProyectoInv1.csproj.AssemblyReference.cache
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\obj\Debug\ProyectoInv1.CalculadoraPRN115_Grupo6.resources
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\obj\Debug\ProyectoInv1.Properties.Resources.resources
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\obj\Debug\ProyectoInv1.csproj.GenerateResource.cache
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\obj\Debug\ProyectoInv1.csproj.CoreCompileInputs.cache
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\obj\Debug\ProyectoInv1.exe
+E:\Fabio\Downloads\VERSIONES PROYECTO GIT\PROYECTO GIT\Calculadora - 4 final\obj\Debug\ProyectoInv1.pdb
+C:\Users\maria\Desktop\Calculadora - 4 final\bin\Debug\ProyectoInv1.exe.config
+C:\Users\maria\Desktop\Calculadora - 4 final\bin\Debug\ProyectoInv1.exe
+C:\Users\maria\Desktop\Calculadora - 4 final\bin\Debug\ProyectoInv1.pdb
+C:\Users\maria\Desktop\Calculadora - 4 final\obj\Debug\ProyectoInv1.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Calculadora - 4 final\obj\Debug\ProyectoInv1.CalculadoraPRN115_Grupo6.resources
+C:\Users\maria\Desktop\Calculadora - 4 final\obj\Debug\ProyectoInv1.Properties.Resources.resources
+C:\Users\maria\Desktop\Calculadora - 4 final\obj\Debug\ProyectoInv1.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Calculadora - 4 final\obj\Debug\ProyectoInv1.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Calculadora - 4 final\obj\Debug\ProyectoInv1.exe
+C:\Users\maria\Desktop\Calculadora - 4 final\obj\Debug\ProyectoInv1.pdb

@@ -16,7 +16,7 @@ namespace ProyectoInv1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CalculadoraPRN115());
+            Application.Run(new CalculadoraPRN115_Grupo6());
         }
     }
 }
