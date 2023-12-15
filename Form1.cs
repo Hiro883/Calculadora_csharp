@@ -7,18 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-/// < summary >
-/// Nombre del proyecto: Calculadora digital
-/// Fecha de entrega: 3 de septiembre 2023
-/// Autores:
-///     Angel Rafael Meléndez Calderón - MC21081
-///     Eduardo Javier Hernández Regalado - HR23040
-///     María Esmeralda Sánchez Castillo, SC22048
-///     Ricardo Fabio Menjívar Chávez - MC23048
-/// Equipo de trabajo N°: 6
-/// Grupo teórico N°: 3
-/// Tutor: Ing. José Alberto Martinez Campos
-/// </ summary >
+
 namespace ProyectoInv1
 {
     public partial class CalculadoraPRN115_Grupo6 : Form
